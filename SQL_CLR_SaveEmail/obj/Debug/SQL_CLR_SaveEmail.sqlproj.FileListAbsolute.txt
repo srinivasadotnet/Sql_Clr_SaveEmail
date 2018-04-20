@@ -1,0 +1,5 @@
+D:\Training\Email\SQL_CLR_SaveEmail\SQL_CLR_SaveEmail\bin\Debug\SQL_CLR_SaveEmail.dacpac
+D:\Training\Email\SQL_CLR_SaveEmail\SQL_CLR_SaveEmail\bin\Debug\SQL_CLR_SaveEmail.dll
+D:\Training\Email\SQL_CLR_SaveEmail\SQL_CLR_SaveEmail\bin\Debug\SQL_CLR_SaveEmail.pdb
+D:\Training\Email\SQL_CLR_SaveEmail\SQL_CLR_SaveEmail\obj\Debug\SQL_CLR_SaveEmail.dll
+D:\Training\Email\SQL_CLR_SaveEmail\SQL_CLR_SaveEmail\obj\Debug\SQL_CLR_SaveEmail.pdb
