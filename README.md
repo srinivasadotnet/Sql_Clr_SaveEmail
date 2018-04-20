@@ -3,8 +3,8 @@ MS SQL Server CLR Function for Saving Email as .eml file
 
 Directly storing .eml file with SQL is not possible (as per my knowledge). So we have created a CLR function which will create .eml file with given values.
 
-# Sample Usage
-
+### Sample Usage
+```
 DECLARE @result VARCHAR(max)
 
 EXEC @result = dbo.SaveEmail             
@@ -17,5 +17,6 @@ EXEC @result = dbo.SaveEmail
              ,@fileName = 'SampleEmail'                 --(Optional)  -- If user didn’t provided the name system will assign GUID       
 
 SELECT @result
-
-Sample Output : “C:\Users\MSSQLSERVER\AppData\Local\Temp\SampleEmail.eml”
+```
+### Sample Output : 
+``` “C:\Users\MSSQLSERVER\AppData\Local\Temp\SampleEmail.eml” ```
